@@ -1,2 +1,1 @@
-Prueba.md
 #Prueba Markdown
